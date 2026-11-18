@@ -130,8 +130,8 @@ The strongest positive features are living area (`GrLivArea`), overall quality (
 ## Installation and Usage
 
 ```
-git clone https://github.com/Charan-Code600/house-price-prediction.git
-cd house-price-prediction
+git clone https://github.com/Charan-Code600/House-Price-Prediction.git
+cd House-Price-Prediction
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
@@ -163,7 +163,7 @@ Estimated price: **$188,978**. The menu rejects values outside the range seen in
 ## Project Structure
 
 ```
-house-price-prediction/
+House-Price-Prediction/
  ├─ data/               (not in the repository)
  ├─ models/             (saved model, created by option 4)
  ├─ reports/figures/    (graphs)
